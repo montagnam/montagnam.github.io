@@ -1,5 +1,5 @@
-title: My GitHub Pages Site
-description: A simple site powered by Jekyll on GitHub Pages
+title: Marco Montagna, MD - AI in Medicine
+description: Bridging the gap between AI and Medicine
 baseurl: "" # Leave empty for GitHub Pages
 url: "https://montagnam.github.io" # Replace with your GitHub Pages URL
 
@@ -8,4 +8,4 @@ markdown: kramdown
 
 # Optional metadata
 author: Marco Montagna, MD
-email: montagna.marco@hsr.kt
+email: montagna.marco@hsr.it
