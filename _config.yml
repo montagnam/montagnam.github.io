@@ -1,0 +1,11 @@
+title: My GitHub Pages Site
+description: A simple site powered by Jekyll on GitHub Pages
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://montagnam.github.io" # Replace with your GitHub Pages URL
+
+theme: minima # Jekyll's built-in theme
+markdown: kramdown
+
+# Optional metadata
+author: Marco Montagna, MD
+email: montagna.marco@hsr.kt
