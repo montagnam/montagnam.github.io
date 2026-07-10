@@ -142,11 +142,34 @@ title: Marco Montagna, MD PhD
 
       <section id="teaching" class="section-block">
         <h2>Teaching</h2>
-        <p>
-          I contribute to clinician-facing dissemination and methodological training
-          on responsible AI/ML adoption in internal medicine, with emphasis on data
-          quality, study design, and reproducible analysis.
-        </p>
+        <table class="talks-table">
+          <tbody>
+            <tr>
+              <td>2025-present</td>
+              <td>Tutor of internal medicine and physical examination clerkships at the simulation centre, about 150 students.</td>
+            </tr>
+            <tr>
+              <td>2024-present</td>
+              <td>Lecturer and examiner of the Residency Program of Internal Medicine. <strong>Mentor</strong> for three residents each year.</td>
+            </tr>
+            <tr>
+              <td>2024 &amp; 2025</td>
+              <td>Volunteer at Milan's MEETmeTonight Science Festival and BergamoScienza Festival.</td>
+            </tr>
+            <tr>
+              <td>Nov 2024</td>
+              <td>Delivered an invited <strong>public seminar</strong> on Artificial Intelligence in Healthcare, engaging a non-specialist audience to promote understanding of AI applications and ethical implications in medicine, Castelbuono (PA), Italy.</td>
+            </tr>
+            <tr>
+              <td>2023-present</td>
+              <td><strong>Thesis Co-Supervisor</strong> of 2 resident physicians and 4 MD students.</td>
+            </tr>
+            <tr>
+              <td>2023-present</td>
+              <td>Lecturer of Internal Medicine, course and material organizer, and marking, about 120 students.</td>
+            </tr>
+          </tbody>
+        </table>
       </section>
 
       <section id="talks" class="section-block">
@@ -175,7 +198,7 @@ title: Marco Montagna, MD PhD
             </tr>
             <tr>
               <td>Feb 2025</td>
-              <td>Delivered a joint webinar of the Young Internists of EFIM and SIMI, "The (unexpected) fundamentals of Artificial Intelligence for Internal Medicine" (about 60 attendees, over 340 YouTube views).</td>
+              <td>Delivered a <strong>joint webinar</strong> of the Young Internists of EFIM and SIMI, "The (unexpected) fundamentals of Artificial Intelligence for Internal Medicine" (about 60 attendees, over 340 YouTube views).</td>
             </tr>
           </tbody>
         </table>
