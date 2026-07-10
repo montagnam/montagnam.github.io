@@ -36,10 +36,18 @@ body {
 
 .wrapper {
   max-width: 1180px;
+}
+
+.home-layout {
   height: calc(100vh - 2rem);
   display: grid;
   grid-template-rows: auto minmax(0, 1fr);
   gap: 0.8rem;
+}
+
+.subpage-layout {
+  max-width: 920px;
+  margin: 0 auto;
 }
 
 .top-ribbon {
@@ -170,6 +178,10 @@ body {
   margin-top: 0;
 }
 
+.single-page {
+  margin-top: 0.8rem;
+}
+
 .section-block {
   background: var(--panel);
   border: 1px solid var(--line);
@@ -252,7 +264,7 @@ body {
 }
 
 @media (max-width: 900px) {
-  .wrapper {
+  .home-layout {
     height: auto;
     display: block;
   }
