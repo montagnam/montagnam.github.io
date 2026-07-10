@@ -43,6 +43,7 @@ body {
   display: grid;
   grid-template-rows: auto minmax(0, 1fr);
   gap: 0.8rem;
+  overflow: hidden;
 }
 
 .subpage-layout {
@@ -165,6 +166,21 @@ body {
   height: 16px;
   fill: var(--accent);
   flex: 0 0 auto;
+}
+
+.profile-links .orcid-icon {
+  fill: none;
+}
+
+.profile-links .orcid-icon circle {
+  fill: #a6ce39;
+}
+
+.profile-links .orcid-icon text {
+  fill: #fff;
+  font-size: 9px;
+  font-weight: 700;
+  font-family: Arial, sans-serif;
 }
 
 .content-panel {
@@ -325,8 +341,3 @@ body {
   }
 }
 
-@media (min-width: 901px) {
-  body {
-    overflow: hidden;
-  }
-}

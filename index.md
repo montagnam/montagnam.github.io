@@ -8,7 +8,6 @@ title: Marco Montagna, MD PhD
   <div class="ribbon-name">Marco Montagna, MD PhD</div>
   <nav class="ribbon-nav" aria-label="Primary">
     <a href="#about">About</a>
-    <a href="#research">Research Focus</a>
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
     <a href="{{ '/education/' | relative_url }}">Education</a>
     <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
@@ -45,7 +44,10 @@ title: Marco Montagna, MD PhD
       </li>
       <li>
         <a href="https://orcid.org/0000-0002-0907-7640" aria-label="ORCID">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm-3.3 4h1.8v12H8.7V6zm3.3 0h2.8c2.2 0 3.9 1.6 3.9 3.8 0 2.2-1.6 3.8-3.9 3.8h-1V18H12V6zm1.8 1.7v4.3h1c1.2 0 2-.9 2-2.1 0-1.3-.8-2.2-2-2.2h-1z"/></svg>
+          <svg class="orcid-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="12" />
+            <text x="12" y="15.3" text-anchor="middle">iD</text>
+          </svg>
           <span>ORCID</span>
         </a>
       </li>

@@ -8,7 +8,7 @@ permalink: /education/
   <header class="top-ribbon" aria-label="Section navigation">
     <div class="ribbon-name">Marco Montagna, MD PhD</div>
     <nav class="ribbon-nav" aria-label="Primary">
-      <a href="{{ '/' | relative_url }}">Overview</a>
+      <a href="{{ '/' | relative_url }}">About</a>
       <a href="{{ '/publications/' | relative_url }}">Publications</a>
       <a href="{{ '/education/' | relative_url }}">Education</a>
       <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
