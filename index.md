@@ -10,7 +10,7 @@ title: Marco Montagna, MD PhD
     <a href="#about">About</a>
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
     <a href="{{ '/education/' | relative_url }}">Education</a>
-    <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+    <a href="{{ '/teaching/' | relative_url }}">Teaching &amp; Outreach</a>
     <a href="{{ '/talks/' | relative_url }}">Talks</a>
   </nav>
 </header>
@@ -83,6 +83,25 @@ title: Marco Montagna, MD PhD
           <li>Machine learning for classification and survival analysis in multimorbidity.</li>
           <li>Model interpretability and clinical translation using robust validation frameworks.</li>
           <li>Trusted Research Environment workflows based on FAIR principles and medical ontologies.</li>
+        </ul>
+      </section>
+
+      <section id="esteem" class="section-block">
+        <h2>Evidence of Esteem</h2>
+        <div class="esteem-logos" aria-label="Membership and editorial affiliations">
+          <img src="{{ '/assets/EFIM.png' | relative_url }}" alt="EFIM logo">
+          <img src="{{ '/assets/JMIR.png' | relative_url }}" alt="JMIR logo">
+          <img src="{{ '/assets/SIMI.jpg' | relative_url }}" alt="SIMI logo">
+        </div>
+        <ul>
+          <li>Member: <a href="https://efim.org/digital-medicine-wg">Telemedicine, Innovative Technologies and Digital Health Working Group</a> - European Federation of Internal Medicine, from 2023.</li>
+          <li>Member: Artificial Intelligence and Digital Therapeutics Working Group - Italian Society of Internal Medicine, from 2024.</li>
+          <li><strong>Founder</strong>: Italian Society for Artificial Intelligence in Medicine (SIIAM), from 2022.</li>
+          <li><strong>Associate Editor</strong>: JMIR Medical Education, from 2025.</li>
+          <li>Active reviewer for journals: Internal and Emergency Medicine, Journal of Endocrinological Investigation, from 2023.</li>
+          <li><strong>Representative</strong>: Young Internist of Lombardy in the National Society of Internal Medicine (SIMI), from 2024.</li>
+          <li>Co-organizing the annual conference of the Lombardy Branch, Italian Society of Internal Medicine, about 150 attendees.</li>
+          <li>Co-organizing the annual Science Communication course, Italian Society of Internal Medicine, about 20 attendees.</li>
         </ul>
       </section>
     </main>

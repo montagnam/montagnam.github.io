@@ -11,7 +11,7 @@ permalink: /education/
       <a href="{{ '/' | relative_url }}">About</a>
       <a href="{{ '/publications/' | relative_url }}">Publications</a>
       <a href="{{ '/education/' | relative_url }}">Education</a>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+      <a href="{{ '/teaching/' | relative_url }}">Teaching &amp; Outreach</a>
       <a href="{{ '/talks/' | relative_url }}">Talks</a>
     </nav>
   </header>

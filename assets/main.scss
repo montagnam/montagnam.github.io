@@ -102,8 +102,9 @@ body {
 }
 
 .profile-panel {
-  height: 100%;
-  overflow: hidden;
+  height: auto;
+  overflow: visible;
+  align-self: start;
   background: var(--left-bg);
   border: 1px solid var(--line);
   border-radius: 0.9rem;
@@ -209,6 +210,24 @@ body {
 
 .section-block h2 {
   margin-top: 0;
+}
+
+.esteem-logos {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 0.7rem;
+}
+
+.esteem-logos img {
+  height: 38px;
+  width: auto;
+  object-fit: contain;
+  border: 1px solid var(--line);
+  border-radius: 0.45rem;
+  background: #fff;
+  padding: 0.2rem 0.35rem;
 }
 
 .edu-grid {
