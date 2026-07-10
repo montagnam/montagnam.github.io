@@ -63,7 +63,10 @@ title: Marco Montagna, MD PhD
       <section id="about" class="section-block">
         <h2>About</h2>
         <p>
-          I am a consultant and machine learning researcher with a dual background in Internal Medicine and Computer Science, currently appointed as a postdoctoral researcher at Vita-Salute San Raffaele University, Milan, and visiting researcher at the University of Cambridge. My work bridges medicine and computational methods, focusing on reproducible pipelines for the acquisition, preprocessing and use of routinely collected data from electronic medical records for risk prediction modelling and clinical decision support according to expected health trajectories.
+          I am a consultant and machine learning researcher with a dual background in Internal Medicine and Computer Science, currently appointed as a postdoctoral researcher at Vita-Salute San Raffaele University, Milan, and visiting researcher at the University of Cambridge.
+        </p>
+        <p>
+          My work bridges medicine and computational methods, focusing on reproducible pipelines for the acquisition, preprocessing and use of routinely collected data from electronic medical records for risk prediction modelling and clinical decision support according to expected health trajectories.
         </p>
         <p>
            I hold experience in teaching at undergraduate/graduate level, authoring and editing peer-reviewed articles, and am used to engage with various stakeholders, including clinicians, researchers and industry partners.

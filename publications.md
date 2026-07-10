@@ -19,16 +19,26 @@ permalink: /publications/
   <main class="single-page">
     <section class="section-block">
       <h2>Publications</h2>
-      <p>
-        My research spans clinical machine learning, multimodal risk modelling,
-        and reproducible translational data science.
-      </p>
       <ul>
-        <li>Frontiers in Digital Health (2026): reproducible preprocessing pipelines for healthcare ML.</li>
-        <li>npj Digital Medicine (2026): end-to-end FHIR-based clinical data science platform development.</li>
-        <li>Lung Cancer (2025): predictive modelling with multimodal and multicentric clinical data.</li>
-        <li>Journal of Medical Internet Research (2023): applied clinical AI and translational analytics.</li>
-        <li>La Radiologia Medica (2022): predictive modelling and medical data integration.</li>
+        <li>5 first-author, 12 co-authored publications.</li>
+        <li>6 refereed conference presentations with peer-reviewed abstract submission at international and national conferences.</li>
+      </ul>
+
+      <p><strong>2026</strong></p>
+      <ul>
+        <li><strong>M. Montagna</strong>, A. S. Rabadzhiev, et al. <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1685842/full">From raw data to actionable insights: preprocessing real-world data for machine learning in diabetes care</a>. Frontiers in Digital Health, 2026.</li>
+        <li>A. Traverso, ..., <strong>M. Montagna</strong> et al. <a href="https://www.nature.com/articles/s41746-025-02132-w">Powering responsible artificial intelligence with high-quality real-world data: The S-RACE platform for scalable, multi-specialty clinical research</a>. npj Digital Medicine, 2026.</li>
+      </ul>
+
+      <p><strong>2025</strong></p>
+      <ul>
+        <li>F.R. Ogliari, A. Traverso, S. Barbieri, <strong>M. Montagna</strong>, et al. <a href="https://www.lungcancerjournal.info/article/S0169-5002(24)00609-3/fulltext">Exploring machine learning tools in a retrospective case-study of patients with metastatic non-small cell lung cancer treated with first-line immunotherapy: A feasibility single-centre experience</a>. Lung Cancer, 2025.</li>
+        <li><strong>M. Montagna</strong>, F. Chiabrando, R. De Lorenzo, P. Rovere Querini. <a href="https://mededu.jmir.org/2025/1/e55709">Impact of Clinical Decision Support Systems on Medical Students' Case-Solving Performance: Comparison Study with a Focus Group</a>. JMIR Medical Education, 2025.</li>
+      </ul>
+
+      <p><strong>2023</strong></p>
+      <ul>
+        <li>J. Han, <strong>M. Montagna</strong>, ..., C. Mascolo. <a href="https://www.jmir.org/2023/1/e44804">Evaluating Listening Performance for COVID-19 Detection by Clinicians and Machine Learning: Comparative Study</a>. Journal of Medical Internet Research, 2023.</li>
       </ul>
     </section>
   </main>
