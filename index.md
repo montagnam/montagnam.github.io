@@ -155,15 +155,15 @@ title: Marco Montagna, MD PhD
           <tbody>
             <tr>
               <td>Mar 2026</td>
-              <td>"A diagnosis-independent frailty index at admission improves risk stratification in hospitalized internal medicine patients", 24th European Congress of Internal Medicine, Vienna.</td>
+              <td><strong>Oral Communication</strong>: "A diagnosis-independent frailty index at admission improves risk stratification in hospitalized internal medicine patients", 24th European Congress of Internal Medicine, Vienna.</td>
             </tr>
             <tr>
               <td>Jun 2025</td>
-              <td><strong>Oral Communication</strong>, "Real World Data-driven medicine: opportunities and challenges to improve everyday clinical practice", 3rd Research and Innovation in Internal Medicine, Bucharest.</td>
+              <td><strong>Invited Speaker</strong>: "Real World Data-driven medicine: opportunities and challenges to improve everyday clinical practice", 3rd Research and Innovation in Internal Medicine, Bucharest.</td>
             </tr>
             <tr>
               <td>Mar 2025</td>
-              <td>"Audio based AI for Respiratory Health Monitoring", University of Cambridge.</td>
+              <td><strong>Invited Speaker</strong>: "Audio based AI for Respiratory Health Monitoring", University of Cambridge.</td>
             </tr>
             <tr>
               <td>Mar 2025</td>
@@ -171,7 +171,7 @@ title: Marco Montagna, MD PhD
             </tr>
             <tr>
               <td>Mar 2025</td>
-              <td><strong>Oral Communication</strong>, "Leveraging Real World Data with Machine Learning to predict long term HbA1c changes in Type 2 Diabetes Mellitus", 23rd European Congress of Internal Medicine, Florence.</td>
+              <td><strong>Oral Communication</strong>: "Leveraging Real World Data with Machine Learning to predict long term HbA1c changes in Type 2 Diabetes Mellitus", 23rd European Congress of Internal Medicine, Florence.</td>
             </tr>
             <tr>
               <td>Feb 2025</td>
