@@ -3,122 +3,132 @@ layout: default
 title: Marco Montagna, MD PhD
 ---
 
-<nav class="top-nav" aria-label="Primary">
-  <a href="#about">About</a>
-  <a href="#research">Research Focus</a>
-  <a href="#publications">Publications</a>
-  <a href="#education">Education</a>
-  <a href="#teaching">Teaching</a>
-  <a href="#talks">Talks</a>
-  <a href="#contact">Contact</a>
-</nav>
-
-<header class="hero">
-  <div class="hero-layout">
-    <div class="hero-text">
-      <p class="eyebrow">AI in Medicine</p>
-      <h1>Marco Montagna, MD PhD</h1>
-      <p class="subtitle">Clinical Academic / Clinical Data Scientist</p>
-      <p>
-        I work at the interface of clinical medicine, machine learning, and
-        reproducible data science for translational research.
-      </p>
-      <div class="cta-row">
-        <a class="btn" href="https://www.scopus.com/authid/detail.uri?authorId=57224663768">Scopus Profile</a>
-        <a class="btn btn-secondary" href="https://www.linkedin.com/in/marco-montagna-md">LinkedIn</a>
-        <a class="btn btn-secondary" href="{{ '/assets/CV.pdf' | relative_url }}">Download CV</a>
-        <a class="btn btn-secondary" href="#contact">Get in touch</a>
-      </div>
-    </div>
-    <img class="hero-photo" src="{{ '/assets/small.jpg' | relative_url }}" alt="Portrait of Marco Montagna">
-  </div>
-</header>
-
-<main class="one-page">
-  <section id="about" class="section-block">
-    <h2>About</h2>
-    <p>
-      I am a consultant in Internal Medicine and postdoctoral researcher at
-      Vita-Salute San Raffaele University in Milan. My work focuses on how
-      real-world clinical data and machine learning can support robust patient
-      phenotyping, improve decision-making, and generate clinically actionable
-      insights.
+<div class="site-grid">
+  <aside class="profile-panel" aria-label="Profile">
+    <img class="profile-photo" src="{{ '/assets/small.jpg' | relative_url }}" alt="Portrait of Marco Montagna">
+    <h1>Marco Montagna, MD PhD</h1>
+    <p class="subtitle">Clinical Academic / Clinical Data Scientist</p>
+    <p class="profile-blurb">
+      Consultant in Internal Medicine working at the intersection of clinical
+      medicine, machine learning, and reproducible data science.
     </p>
-    <p>
-      During my PhD, I led and contributed to end-to-end projects involving
-      data acquisition, curation, preprocessing, modelling, validation, and
-      interpretation across longitudinal hospital datasets.
-    </p>
-  </section>
-
-  <section id="research" class="section-block">
-    <h2>Research Focus</h2>
-    <ul>
-      <li>Real-world clinical data integration across EHRs, registries, and laboratory systems.</li>
-      <li>Reproducible data preprocessing pipelines for longitudinal healthcare datasets.</li>
-      <li>Machine learning for classification and survival analysis in multimorbidity.</li>
-      <li>Model interpretability and clinical translation using robust validation frameworks.</li>
-      <li>Trusted Research Environment workflows based on FAIR principles and medical ontologies.</li>
+    <ul class="profile-links">
+      <li>
+        <a href="mailto:mm2917@cam.ac.uk" aria-label="Email">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18v12H3V6zm2 2v.5l7 4.5 7-4.5V8l-7 4.5L5 8z"/></svg>
+          <span>Email</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/marco-montagna-md" aria-label="LinkedIn">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.7 8.7a1.7 1.7 0 1 1 0-3.4 1.7 1.7 0 0 1 0 3.4zM5.2 10h3V19h-3v-9zm5 0h2.9v1.2h.1c.4-.7 1.4-1.4 2.8-1.4 3 0 3.5 2 3.5 4.5V19h-3v-4.1c0-1 0-2.2-1.4-2.2s-1.6 1-1.6 2.1V19h-3v-9z"/></svg>
+          <span>LinkedIn</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/montagnam/" aria-label="GitHub">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.2c-3.4.7-4.1-1.4-4.1-1.4-.6-1.3-1.4-1.7-1.4-1.7-1.1-.8.1-.8.1-.8 1.2.1 1.9 1.3 1.9 1.3 1.1 1.9 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.6-1.4-5.6-6a4.7 4.7 0 0 1 1.3-3.3 4.4 4.4 0 0 1 .1-3.2s1-.3 3.4 1.3a11.7 11.7 0 0 1 6.2 0c2.4-1.6 3.4-1.3 3.4-1.3a4.4 4.4 0 0 1 .1 3.2 4.7 4.7 0 0 1 1.3 3.3c0 4.6-2.9 5.7-5.6 6 .4.3.9 1 .9 2v3c0 .3.2.7.8.6A12 12 0 0 0 12 .5z"/></svg>
+          <span>GitHub</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=57224663768" aria-label="Scopus">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 3a6.8 6.8 0 0 1 4.8 2l-1.8 1.8A4.2 4.2 0 0 0 8 12a4.2 4.2 0 0 0 7 3.2l1.8 1.8A6.8 6.8 0 1 1 12 5z"/></svg>
+          <span>Scopus</span>
+        </a>
+      </li>
+      <li>
+        <a href="{{ '/assets/CV.pdf' | relative_url }}" aria-label="Curriculum Vitae">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h9l5 5v15H6V2zm8 1.5V8h4.5L14 3.5zM8 12h8v1.5H8V12zm0 3h8v1.5H8V15z"/></svg>
+          <span>CV</span>
+        </a>
+      </li>
     </ul>
-  </section>
+  </aside>
 
-  <section id="publications" class="section-block">
-    <h2>Publications</h2>
-    <p>
-      My research spans clinical machine learning, multimodal risk modelling,
-      and reproducible translational data science.
-    </p>
-    <ul>
-      <li>Frontiers in Digital Health (2026): reproducible preprocessing pipelines for healthcare ML.</li>
-      <li>npj Digital Medicine (2026): end-to-end FHIR-based clinical data science platform development.</li>
-      <li>Lung Cancer (2025): predictive modelling with multimodal and multicentric clinical data.</li>
-      <li>Journal of Medical Internet Research (2023): applied clinical AI and translational analytics.</li>
-      <li>La Radiologia Medica (2022): predictive modelling and medical data integration.</li>
-    </ul>
-    <p>
-      A full and continuously updated publication list is available on
-      <a href="https://www.scopus.com/authid/detail.uri?authorId=57224663768">Scopus</a>.
-    </p>
-  </section>
+  <section class="content-panel">
+    <nav class="top-nav" aria-label="Primary">
+      <a href="#about">About</a>
+      <a href="#research">Research Focus</a>
+      <a href="#publications">Publications</a>
+      <a href="#education">Education</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#talks">Talks</a>
+    </nav>
 
-  <section id="education" class="section-block">
-    <h2>Education</h2>
-    <ul>
-      <li>MD and specialist training in Internal Medicine.</li>
-      <li>PhD (2023-2025), Vita-Salute San Raffaele University, Milan.</li>
-      <li>Visiting researcher, University of Cambridge (with Dr. Ari Ercole).</li>
-    </ul>
-  </section>
+    <main class="one-page">
+      <section id="about" class="section-block">
+        <h2>About</h2>
+        <p>
+          I am a consultant in Internal Medicine and postdoctoral researcher at
+          Vita-Salute San Raffaele University in Milan. My work focuses on how
+          real-world clinical data and machine learning can support robust patient
+          phenotyping, improve decision-making, and generate clinically actionable
+          insights.
+        </p>
+        <p>
+          During my PhD, I led and contributed to end-to-end projects involving
+          data acquisition, curation, preprocessing, modelling, validation, and
+          interpretation across longitudinal hospital datasets.
+        </p>
+      </section>
 
-  <section id="teaching" class="section-block">
-    <h2>Teaching</h2>
-    <p>
-      I contribute to clinician-facing dissemination and methodological training
-      on responsible AI/ML adoption in internal medicine, with emphasis on data
-      quality, study design, and reproducible analysis.
-    </p>
-  </section>
+      <section id="research" class="section-block">
+        <h2>Research Focus</h2>
+        <ul>
+          <li>Real-world clinical data integration across EHRs, registries, and laboratory systems.</li>
+          <li>Reproducible data preprocessing pipelines for longitudinal healthcare datasets.</li>
+          <li>Machine learning for classification and survival analysis in multimorbidity.</li>
+          <li>Model interpretability and clinical translation using robust validation frameworks.</li>
+          <li>Trusted Research Environment workflows based on FAIR principles and medical ontologies.</li>
+        </ul>
+      </section>
 
-  <section id="talks" class="section-block">
-    <h2>Talks</h2>
-    <ul>
-      <li>Conference presentations at the Italian Society of Internal Medicine.</li>
-      <li>Conference presentations at the European Federation of Internal Medicine.</li>
-      <li>Invited talks and working-group contributions on AI in internal medicine.</li>
-    </ul>
-  </section>
+      <section id="publications" class="section-block">
+        <h2>Publications</h2>
+        <p>
+          My research spans clinical machine learning, multimodal risk modelling,
+          and reproducible translational data science.
+        </p>
+        <ul>
+          <li>Frontiers in Digital Health (2026): reproducible preprocessing pipelines for healthcare ML.</li>
+          <li>npj Digital Medicine (2026): end-to-end FHIR-based clinical data science platform development.</li>
+          <li>Lung Cancer (2025): predictive modelling with multimodal and multicentric clinical data.</li>
+          <li>Journal of Medical Internet Research (2023): applied clinical AI and translational analytics.</li>
+          <li>La Radiologia Medica (2022): predictive modelling and medical data integration.</li>
+        </ul>
+      </section>
 
-  <section id="contact" class="section-block">
-    <h2>Contact</h2>
-    <ul class="contact-list">
-      <li>Email: <a href="mailto:mm2917@cam.ac.uk">mm2917@cam.ac.uk</a></li>
-      <li>Scopus: <a href="https://www.scopus.com/authid/detail.uri?authorId=57224663768">Author profile</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/marco-montagna-md">Marco Montagna</a></li>
-      <li>GitHub: <a href="https://github.com/montagnam/">montagnam</a></li>
-    </ul>
-  </section>
-</main>
+      <section id="education" class="section-block">
+        <h2>Education</h2>
+        <ul>
+          <li>MD and specialist training in Internal Medicine.</li>
+          <li>PhD (2023-2025), Vita-Salute San Raffaele University, Milan.</li>
+          <li>Visiting researcher, University of Cambridge (with Dr. Ari Ercole).</li>
+        </ul>
+      </section>
 
-<footer class="site-footnote">
-  <p>Last updated: July 2026</p>
-</footer>
+      <section id="teaching" class="section-block">
+        <h2>Teaching</h2>
+        <p>
+          I contribute to clinician-facing dissemination and methodological training
+          on responsible AI/ML adoption in internal medicine, with emphasis on data
+          quality, study design, and reproducible analysis.
+        </p>
+      </section>
+
+      <section id="talks" class="section-block">
+        <h2>Talks</h2>
+        <ul>
+          <li>Conference presentations at the Italian Society of Internal Medicine.</li>
+          <li>Conference presentations at the European Federation of Internal Medicine.</li>
+          <li>Invited talks and working-group contributions on AI in internal medicine.</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="site-footnote">
+      <p>Last updated: July 2026</p>
+    </footer>
+  </section>
+</div>
