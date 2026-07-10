@@ -107,8 +107,8 @@ title: Marco Montagna, MD PhD
         <div class="edu-grid">
           <article class="edu-card">
             <p><strong>PhD in Health Data Science</strong></p>
+            <p class="edu-meta">Vita-Salute San Raffaele University/IRCCS San Raffaele Hospital, Milan, Italy</p>
             <p class="edu-meta">2023-2025</p>
-            <p class="edu-meta">cum Laude, Vita-Salute San Raffaele University/IRCCS San Raffaele Hospital, Milan, Italy</p>
             <p class="edu-meta">Supervisor: Prof Patrizia Rovere Querini (Milan). Co-Supervisor: Prof Cecilia Mascolo (Cambridge).</p>
             <ul>
               <li>Led real-world multimodal data collection, integration between silos, quality control, and analysis of complex multimorbid internal medicine patients (MED-Cli, NCT05780099, about 2000 patients; paper under review).</li>
@@ -123,14 +123,14 @@ title: Marco Montagna, MD PhD
           </article>
           <article class="edu-card">
             <p><strong>Specialty in Internal Medicine</strong></p>
-            <p class="edu-meta">2018-2023</p>
-            <p class="edu-meta">cum Laude, Vita-Salute San Raffaele University, Milan, Italy</p>
+            <p class="edu-meta">Vita-Salute San Raffaele University, Milan, Italy</p>
+            <p class="edu-meta">2018-2023</p>            
             <p>Thesis project: instituted the Primary Care-Hospital Embedding Prospective, Multicentric, Observational Clinical Trial to introduce integrated care at IRCCS San Raffaele Hospital (PRIME, NCT05723185).</p>
           </article>
           <article class="edu-card">
             <p><strong>Degree in Medicine</strong></p>
+            <p class="edu-meta">International MD Program, Vita-Salute San Raffaele University, Milan, Italy</p>
             <p class="edu-meta">2011-2017</p>
-            <p class="edu-meta">cum Laude, International MD Program, Vita-Salute San Raffaele University, Milan, Italy</p>
             <ul>
               <li>Student intern in the Unit of Haematology and Bone Marrow Transplant.</li>
               <li>Wet lab thesis project: performed fluorescence cytometry screening in Jurkat T cell models of optimal Chimeric Antigen Receptor constructs.</li>
@@ -155,11 +155,11 @@ title: Marco Montagna, MD PhD
           <tbody>
             <tr>
               <td>Mar 2026</td>
-              <td>"A diagnosis-independent frailty index at admission improves risk stratification in hospitalized internal medicine patients", 24th European Congress of Internal Medicine, Vienna.</td>
+              <td><strong>Invited speaker<strong> :"A diagnosis-independent frailty index at admission improves risk stratification in hospitalized internal medicine patients", 24th European Congress of Internal Medicine, Vienna.</td>
             </tr>
             <tr>
               <td>Jun 2025</td>
-              <td><strong>Invited Speaker</strong>, "Real World Data-driven medicine: opportunities and challenges to improve everyday clinical practice", 3rd Research and Innovation in Internal Medicine, Bucharest.</td>
+              <td><strong>Oral Communication</strong>, "Real World Data-driven medicine: opportunities and challenges to improve everyday clinical practice", 3rd Research and Innovation in Internal Medicine, Bucharest.</td>
             </tr>
             <tr>
               <td>Mar 2025</td>
@@ -167,15 +167,15 @@ title: Marco Montagna, MD PhD
             </tr>
             <tr>
               <td>Mar 2025</td>
-              <td>Lecturer and organizer, pre-conference workshop "AI tools for clinical research: the basics for internists", 23rd European Congress of Internal Medicine, Florence (about 30 attendees).</td>
+              <td><strong>Lecturer and organizer<strong>, pre-conference workshop "AI tools for clinical research: the basics for internists", 23rd European Congress of Internal Medicine, Florence (about 30 attendees).</td>
             </tr>
             <tr>
               <td>Mar 2025</td>
-              <td>"Leveraging Real World Data with Machine Learning to predict long term HbA1c changes in Type 2 Diabetes Mellitus", 23rd European Congress of Internal Medicine, Florence.</td>
+              <td><strong>Oral Communication</strong>"Leveraging Real World Data with Machine Learning to predict long term HbA1c changes in Type 2 Diabetes Mellitus", 23rd European Congress of Internal Medicine, Florence.</td>
             </tr>
             <tr>
               <td>Feb 2025</td>
-              <td>Delivered a <strong>joint webinar</strong> of the Young Internists of EFIM and SIMI, "The (unexpected) fundamentals of Artificial Intelligence for Internal Medicine" (about 60 attendees, over 340 YouTube views).</td>
+              <td><strong>Delivered a joint webinar</strong> of the Young Internists of EFIM and SIMI, "The (unexpected) fundamentals of Artificial Intelligence for Internal Medicine" (about 60 attendees, over 340 YouTube views).</td>
             </tr>
           </tbody>
         </table>
