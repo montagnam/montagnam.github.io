@@ -22,8 +22,7 @@ title: Marco Montagna, MD PhD
     <h1>Marco Montagna, MD PhD</h1>
     <p class="subtitle">Clinical Academic / Clinical Data Scientist</p>
     <p class="profile-blurb">
-      Consultant in Internal Medicine working at the intersection of clinical
-      medicine, machine learning, and reproducible data science.
+      AI-Team, School of Medicine, Vita-Salute San Raffaele University
     </p>
     <ul class="profile-links">
       <li>
@@ -64,16 +63,10 @@ title: Marco Montagna, MD PhD
       <section id="about" class="section-block">
         <h2>About</h2>
         <p>
-          I am a consultant in Internal Medicine and postdoctoral researcher at
-          Vita-Salute San Raffaele University in Milan. My work focuses on how
-          real-world clinical data and machine learning can support robust patient
-          phenotyping, improve decision-making, and generate clinically actionable
-          insights.
+          I am a consultant and machine learning researcher with a dual background in Internal Medicine and Computer Science, currently appointed as a postdoctoral researcher at Vita-Salute San Raffaele University, Milan, and visiting researcher at the University of Cambridge. My work bridges medicine and computational methods, focusing on reproducible pipelines for the acquisition, preprocessing and use of routinely collected data from electronic medical records for risk prediction modelling and clinical decision support according to expected health trajectories.
         </p>
         <p>
-          During my PhD, I led and contributed to end-to-end projects involving
-          data acquisition, curation, preprocessing, modelling, validation, and
-          interpretation across longitudinal hospital datasets.
+           I hold experience in teaching at undergraduate/graduate level, authoring and editing peer-reviewed articles, and am used to engage with various stakeholders, including clinicians, researchers and industry partners.
         </p>
       </section>
 
