@@ -3,6 +3,18 @@ layout: default
 title: Marco Montagna, MD PhD
 ---
 
+<header class="top-ribbon" aria-label="Section navigation">
+  <div class="ribbon-name">Marco Montagna, MD PhD</div>
+  <nav class="ribbon-nav" aria-label="Primary">
+    <a href="#about">About</a>
+    <a href="#research">Research Focus</a>
+    <a href="#publications">Publications</a>
+    <a href="#education">Education</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#talks">Talks</a>
+  </nav>
+</header>
+
 <div class="site-grid">
   <aside class="profile-panel" aria-label="Profile">
     <img class="profile-photo" src="{{ '/assets/small.jpg' | relative_url }}" alt="Portrait of Marco Montagna">
@@ -32,9 +44,9 @@ title: Marco Montagna, MD PhD
         </a>
       </li>
       <li>
-        <a href="https://www.scopus.com/authid/detail.uri?authorId=57224663768" aria-label="Scopus">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 3a6.8 6.8 0 0 1 4.8 2l-1.8 1.8A4.2 4.2 0 0 0 8 12a4.2 4.2 0 0 0 7 3.2l1.8 1.8A6.8 6.8 0 1 1 12 5z"/></svg>
-          <span>Scopus</span>
+        <a href="https://orcid.org/0000-0002-0907-7640" aria-label="ORCID">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm-3.3 4h1.8v12H8.7V6zm3.3 0h2.8c2.2 0 3.9 1.6 3.9 3.8 0 2.2-1.6 3.8-3.9 3.8h-1V18H12V6zm1.8 1.7v4.3h1c1.2 0 2-.9 2-2.1 0-1.3-.8-2.2-2-2.2h-1z"/></svg>
+          <span>ORCID</span>
         </a>
       </li>
       <li>
@@ -47,15 +59,6 @@ title: Marco Montagna, MD PhD
   </aside>
 
   <section class="content-panel">
-    <nav class="top-nav" aria-label="Primary">
-      <a href="#about">About</a>
-      <a href="#research">Research Focus</a>
-      <a href="#publications">Publications</a>
-      <a href="#education">Education</a>
-      <a href="#teaching">Teaching</a>
-      <a href="#talks">Talks</a>
-    </nav>
-
     <main class="one-page">
       <section id="about" class="section-block">
         <h2>About</h2>
@@ -132,3 +135,40 @@ title: Marco Montagna, MD PhD
     </footer>
   </section>
 </div>
+
+<script>
+  (function () {
+    function isDesktop() {
+      return window.matchMedia("(min-width: 901px)").matches;
+    }
+
+    function getPanel() {
+      return document.querySelector(".content-panel");
+    }
+
+    document.addEventListener(
+      "wheel",
+      function (event) {
+        if (!isDesktop()) {
+          return;
+        }
+
+        var panel = getPanel();
+        if (!panel) {
+          return;
+        }
+
+        var canScrollDown = panel.scrollTop + panel.clientHeight < panel.scrollHeight;
+        var canScrollUp = panel.scrollTop > 0;
+        var wantsDown = event.deltaY > 0;
+        var wantsUp = event.deltaY < 0;
+
+        if ((wantsDown && canScrollDown) || (wantsUp && canScrollUp)) {
+          panel.scrollTop += event.deltaY;
+          event.preventDefault();
+        }
+      },
+      { passive: false }
+    );
+  })();
+</script>
