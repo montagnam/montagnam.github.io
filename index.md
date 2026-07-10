@@ -104,11 +104,40 @@ title: Marco Montagna, MD PhD
 
       <section id="education" class="section-block">
         <h2>Education</h2>
-        <ul>
-          <li>MD and specialist training in Internal Medicine.</li>
-          <li>PhD (2023-2025), Vita-Salute San Raffaele University, Milan.</li>
-          <li>Visiting researcher, University of Cambridge (with Dr. Ari Ercole).</li>
-        </ul>
+        <div class="edu-grid">
+          <article class="edu-card">
+            <p><strong>PhD in Health Data Science</strong></p>
+            <p class="edu-meta">2023-2025</p>
+            <p class="edu-meta">cum Laude, Vita-Salute San Raffaele University/IRCCS San Raffaele Hospital, Milan, Italy</p>
+            <p class="edu-meta">Supervisor: Prof Patrizia Rovere Querini (Milan). Co-Supervisor: Prof Cecilia Mascolo (Cambridge).</p>
+            <ul>
+              <li>Led real-world multimodal data collection, integration between silos, quality control, and analysis of complex multimorbid internal medicine patients (MED-Cli, NCT05780099, about 2000 patients; paper under review).</li>
+              <li>Implemented a clinical trial to acquire and preprocess Electronic Medical Record data from Type 2 diabetes mellitus patients; performed quality control and applied machine learning for predictive tasks (AI-TRYDIA, NCT06280729, about 9000 patients; Frontiers in Digital Health paper).</li>
+              <li>Visiting Researcher at the Department of Medicine/Cambridge University Hospital under the supervision of Dr Ari Ercole, Chief Informatics Officer.</li>
+              <li>Developed ML pipelines to leverage real-world data from 17000 patients at Cambridge University Hospital for external validation experiments.</li>
+              <li>Attended the 2nd and 4th Summer School in AI and Machine Learning for Medicine (Cambridge Centre for AI in Medicine) and the 1st Summer School in AI for Healthcare (Italian Association for Artificial Intelligence).</li>
+              <li>Covered topics including ML and deep learning fundamentals, model evaluation and interpretability, large language models for research/coding, and causal inference.</li>
+              <li>Co-designed with Microsoft and partners the S-RACE cloud-based multilayer platform for an end-to-end clinical data science pipeline in AzureML Studio (npj Digital Medicine paper).</li>
+              <li>Collected and curated three clinical datasets for research purposes (COVID-19 voice-based detection, lung cancer, COVID-19 prognostication papers).</li>
+            </ul>
+          </article>
+          <article class="edu-card">
+            <p><strong>Specialty in Internal Medicine</strong></p>
+            <p class="edu-meta">2018-2023</p>
+            <p class="edu-meta">cum Laude, Vita-Salute San Raffaele University, Milan, Italy</p>
+            <p>Thesis project: instituted the Primary Care-Hospital Embedding Prospective, Multicentric, Observational Clinical Trial to introduce integrated care at IRCCS San Raffaele Hospital (PRIME, NCT05723185).</p>
+          </article>
+          <article class="edu-card">
+            <p><strong>Degree in Medicine</strong></p>
+            <p class="edu-meta">2011-2017</p>
+            <p class="edu-meta">cum Laude, International MD Program, Vita-Salute San Raffaele University, Milan, Italy</p>
+            <ul>
+              <li>Student intern in the Unit of Haematology and Bone Marrow Transplant.</li>
+              <li>Wet lab thesis project: performed fluorescence cytometry screening in Jurkat T cell models of optimal Chimeric Antigen Receptor constructs.</li>
+              <li>Supervisor: Prof Fabio Ciceri. Co-Supervisor: Dr Attilio Bondanza.</li>
+            </ul>
+          </article>
+        </div>
       </section>
 
       <section id="teaching" class="section-block">
@@ -122,11 +151,34 @@ title: Marco Montagna, MD PhD
 
       <section id="talks" class="section-block">
         <h2>Talks</h2>
-        <ul>
-          <li>Conference presentations at the Italian Society of Internal Medicine.</li>
-          <li>Conference presentations at the European Federation of Internal Medicine.</li>
-          <li>Invited talks and working-group contributions on AI in internal medicine.</li>
-        </ul>
+        <table class="talks-table">
+          <tbody>
+            <tr>
+              <td>Mar 2026</td>
+              <td>"A diagnosis-independent frailty index at admission improves risk stratification in hospitalized internal medicine patients", 24th European Congress of Internal Medicine, Vienna.</td>
+            </tr>
+            <tr>
+              <td>Jun 2025</td>
+              <td><strong>Invited Speaker</strong>, "Real World Data-driven medicine: opportunities and challenges to improve everyday clinical practice", 3rd Research and Innovation in Internal Medicine, Bucharest.</td>
+            </tr>
+            <tr>
+              <td>Mar 2025</td>
+              <td><strong>Invited Speaker</strong>, "Audio based AI for Respiratory Health Monitoring", University of Cambridge.</td>
+            </tr>
+            <tr>
+              <td>Mar 2025</td>
+              <td>Lecturer and organizer, pre-conference workshop "AI tools for clinical research: the basics for internists", 23rd European Congress of Internal Medicine, Florence (about 30 attendees).</td>
+            </tr>
+            <tr>
+              <td>Mar 2025</td>
+              <td>"Leveraging Real World Data with Machine Learning to predict long term HbA1c changes in Type 2 Diabetes Mellitus", 23rd European Congress of Internal Medicine, Florence.</td>
+            </tr>
+            <tr>
+              <td>Feb 2025</td>
+              <td>Delivered a <strong>joint webinar</strong> of the Young Internists of EFIM and SIMI, "The (unexpected) fundamentals of Artificial Intelligence for Internal Medicine" (about 60 attendees, over 340 YouTube views).</td>
+            </tr>
+          </tbody>
+        </table>
       </section>
     </main>
 

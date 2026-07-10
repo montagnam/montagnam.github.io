@@ -183,6 +183,67 @@ body {
   margin-top: 0;
 }
 
+.edu-grid {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.edu-card {
+  background: #fdfefd;
+  border: 1px solid var(--line);
+  border-radius: 0.65rem;
+  padding: 0.75rem 0.85rem;
+}
+
+.edu-card p {
+  margin: 0;
+}
+
+.edu-card p + p {
+  margin-top: 0.35rem;
+  color: var(--ink-soft);
+}
+
+.edu-meta {
+  color: var(--ink-soft);
+  font-size: 0.96rem;
+}
+
+.edu-card ul {
+  margin: 0.55rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.edu-card li {
+  margin: 0.28rem 0;
+}
+
+.talks-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.talks-table tbody tr {
+  border-top: 1px solid var(--line);
+}
+
+.talks-table tbody tr:first-child {
+  border-top: none;
+}
+
+.talks-table td {
+  padding: 0.6rem 0.2rem;
+  vertical-align: top;
+}
+
+.talks-table td:first-child {
+  width: 92px;
+  color: var(--ink-soft);
+  font-weight: 500;
+  padding-right: 0.8rem;
+  white-space: nowrap;
+}
+
 .site-footnote {
   color: var(--ink-soft);
   font-size: 0.9rem;
@@ -245,6 +306,10 @@ body {
 
   .ribbon-nav {
     gap: 0.2rem;
+  }
+
+  .talks-table td:first-child {
+    width: 80px;
   }
 }
 
