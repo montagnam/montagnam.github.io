@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marco Montagna, MD
+title: Marco Montagna, MD PhD
 ---
 
 <nav class="top-nav" aria-label="Primary">
@@ -17,7 +17,7 @@ title: Marco Montagna, MD
   <div class="hero-layout">
     <div class="hero-text">
       <p class="eyebrow">AI in Medicine</p>
-      <h1>Marco Montagna, MD</h1>
+      <h1>Marco Montagna, MD PhD</h1>
       <p class="subtitle">Clinical Academic / Clinical Data Scientist</p>
       <p>
         I work at the interface of clinical medicine, machine learning, and
