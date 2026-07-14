@@ -291,6 +291,19 @@ body {
   white-space: nowrap;
 }
 
+.outreach-image-wrap {
+  margin-top: 0.55rem;
+}
+
+.outreach-image {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  display: block;
+}
+
 .site-footnote {
   color: var(--ink-soft);
   font-size: 0.9rem;

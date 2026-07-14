@@ -48,11 +48,23 @@ permalink: /teaching/
         <tbody>
           <tr>
             <td>2024 &amp; 2025</td>
-            <td>Volunteer at Milan's MEETmeTonight Science Festival and BergamoScienza Festival.</td>
+            <td>
+              Volunteer at Milan's MEETmeTonight Science Festival and BergamoScienza Festival.
+              <div class="outreach-image-wrap">
+                <img class="outreach-image" src="{{ '/assets/meetme.jpeg' | relative_url }}" alt="MEETmeTonight outreach activity">
+              </div>
+            </td>
           </tr>
           <tr>
             <td>Nov 2024</td>
-            <td>Delivered an invited <strong>public seminar</strong> on Artificial Intelligence in Healthcare, engaging a non-specialist audience to promote understanding of AI applications and ethical implications in medicine, Castelbuono (PA), Italy.</td>
+            <td>
+              Delivered an invited <strong>public seminar</strong> on Artificial Intelligence in Healthcare, engaging a non-specialist audience to promote understanding of AI applications and ethical implications in medicine, Castelbuono (PA), Italy.
+              <br>
+              <a href="https://www.youtube.com/watch?v=VyzHJSNO81c&amp;list=PLlyQNr2ak9_2dZqu2Myp2TPHYx6hCRPBH&amp;index=5&amp;t">Link to the recording in Italian (activate auto-translated subtitles!)</a>
+              <div class="outreach-image-wrap">
+                <img class="outreach-image" src="{{ '/assets/castelbuono.png' | relative_url }}" alt="Castelbuono public seminar outreach activity">
+              </div>
+            </td>
           </tr>
         </tbody>
       </table>
