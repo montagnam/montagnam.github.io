@@ -92,7 +92,7 @@ title: Marco Montagna, MD PhD
           <li>Member: <a href="https://efim.org/digital-medicine-wg">Telemedicine, Innovative Technologies and Digital Health Working Group</a> - European Federation of Internal Medicine, from 2023.</li>
           <li>Member: Artificial Intelligence and Digital Therapeutics Working Group - Italian Society of Internal Medicine, from 2024.</li>
           <li><strong>Founder</strong>: Italian Society for Artificial Intelligence in Medicine (SIIAM), from 2022.</li>
-          <li><strong>Associate Editor</strong>: JMIR Medical Education, from 2025.</li>
+          <li><strong>Associate Editor</strong>: <a href="https://mededu.jmir.org/about-journal/editorial-board">JMIR Medical Education</a>, from 2025.</li>
           <li>Active reviewer for journals: Internal and Emergency Medicine, Journal of Endocrinological Investigation, from 2023.</li>
           <li><strong>Representative</strong>: Young Internist of Lombardy in the National Society of Internal Medicine (SIMI), from 2024.</li>
           <li>Co-organizing the annual conference of the Lombardy Branch, Italian Society of Internal Medicine, about 150 attendees.</li>

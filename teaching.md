@@ -24,11 +24,11 @@ permalink: /teaching/
         <tbody>
           <tr>
             <td>2025-2026</td>
-            <td>Tutor of internal medicine and physical examination clerkships at the simulation centre, about 150 students.</td>
+            <td><strong>Tutor</strong> of internal medicine and physical examination clerkships at the simulation centre, about 150 students.</td>
           </tr>
           <tr>
             <td>2024-present</td>
-            <td>Lecturer and examiner of the Residency Program of Internal Medicine. <strong>Mentor</strong> for three residents each year.</td>
+            <td><strong>Lecturer and examiner</strong> of the Residency Program of Internal Medicine. <strong>Mentor</strong> for three residents each year.</td>
           </tr>
           <tr>
             <td>2023-2026</td>
@@ -36,7 +36,7 @@ permalink: /teaching/
           </tr>
           <tr>
             <td>2023-2026</td>
-            <td>Lecturer of Internal Medicine, course and material organizer, and marking, about 120 students.</td>
+            <td><strong>Lecturer</strong> of Internal Medicine, course and material organizer, and marking, about 120 students.</td>
           </tr>
         </tbody>
       </table>
