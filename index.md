@@ -88,11 +88,6 @@ title: Marco Montagna, MD PhD
 
       <section id="esteem" class="section-block">
         <h2>Evidence of Esteem</h2>
-        <div class="esteem-logos" aria-label="Membership and editorial affiliations">
-          <img src="{{ '/assets/EFIM.png' | relative_url }}" alt="EFIM logo">
-          <img src="{{ '/assets/JMIR.png' | relative_url }}" alt="JMIR logo">
-          <img src="{{ '/assets/SIMI.jpg' | relative_url }}" alt="SIMI logo">
-        </div>
         <ul>
           <li>Member: <a href="https://efim.org/digital-medicine-wg">Telemedicine, Innovative Technologies and Digital Health Working Group</a> - European Federation of Internal Medicine, from 2023.</li>
           <li>Member: Artificial Intelligence and Digital Therapeutics Working Group - Italian Society of Internal Medicine, from 2024.</li>
@@ -103,6 +98,11 @@ title: Marco Montagna, MD PhD
           <li>Co-organizing the annual conference of the Lombardy Branch, Italian Society of Internal Medicine, about 150 attendees.</li>
           <li>Co-organizing the annual Science Communication course, Italian Society of Internal Medicine, about 20 attendees.</li>
         </ul>
+        <div class="esteem-logos" aria-label="Membership and editorial affiliations">
+          <img src="{{ '/assets/EFIM.png' | relative_url }}" alt="EFIM logo">
+          <img src="{{ '/assets/JMIR.png' | relative_url }}" alt="JMIR logo">
+          <img src="{{ '/assets/SIMI.jpg' | relative_url }}" alt="SIMI logo">
+        </div>
       </section>
     </main>
 
