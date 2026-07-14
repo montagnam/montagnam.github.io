@@ -17,15 +17,9 @@ permalink: /research-activity/
 
   <main class="single-page">
     <section class="section-block">
-      <h2>Research activity</h2>
-      <h3>Research Focus</h3>
-      <ul>
-        <li>Real-world clinical data integration across EHRs, registries, and laboratory systems.</li>
-        <li>Reproducible data preprocessing pipelines for longitudinal healthcare datasets.</li>
-        <li>Machine learning for classification and survival analysis in multimorbidity.</li>
-        <li>Model interpretability and clinical translation using robust validation frameworks.</li>
-        <li>Trusted Research Environment workflows based on FAIR principles and medical ontologies.</li>
-      </ul>
+        <p>
+       My research advances real-world clinical data integration and machine learning modeling for healthcare, with a clinician’s perspective on reproducible preprocessing, classification, and survival analysis in multimorbidity.
+        </p>
     </section>
 
     <section class="section-block">
