@@ -8,10 +8,9 @@ title: Marco Montagna, MD PhD
   <div class="ribbon-name">Marco Montagna, MD PhD</div>
   <nav class="ribbon-nav" aria-label="Primary">
     <a href="#about">About</a>
-    <a href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a href="{{ '/research-activity/' | relative_url }}">Research activity</a>
     <a href="{{ '/education/' | relative_url }}">Education</a>
     <a href="{{ '/teaching/' | relative_url }}">Teaching &amp; Outreach</a>
-    <a href="{{ '/talks/' | relative_url }}">Talks</a>
   </nav>
 </header>
 
@@ -73,17 +72,6 @@ title: Marco Montagna, MD PhD
         <p>
            I hold experience in teaching at undergraduate/graduate level, authoring and editing peer-reviewed articles, and am used to engage with various stakeholders, including clinicians, researchers and industry partners.
         </p>
-      </section>
-
-      <section id="research" class="section-block">
-        <h2>Research Focus</h2>
-        <ul>
-          <li>Real-world clinical data integration across EHRs, registries, and laboratory systems.</li>
-          <li>Reproducible data preprocessing pipelines for longitudinal healthcare datasets.</li>
-          <li>Machine learning for classification and survival analysis in multimorbidity.</li>
-          <li>Model interpretability and clinical translation using robust validation frameworks.</li>
-          <li>Trusted Research Environment workflows based on FAIR principles and medical ontologies.</li>
-        </ul>
       </section>
 
       <section id="esteem" class="section-block">

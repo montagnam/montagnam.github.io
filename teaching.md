@@ -9,10 +9,9 @@ permalink: /teaching/
     <div class="ribbon-name">Marco Montagna, MD PhD</div>
     <nav class="ribbon-nav" aria-label="Primary">
       <a href="{{ '/' | relative_url }}">About</a>
-      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/research-activity/' | relative_url }}">Research activity</a>
       <a href="{{ '/education/' | relative_url }}">Education</a>
       <a href="{{ '/teaching/' | relative_url }}">Teaching &amp; Outreach</a>
-      <a href="{{ '/talks/' | relative_url }}">Talks</a>
     </nav>
   </header>
 
