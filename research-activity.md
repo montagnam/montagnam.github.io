@@ -46,7 +46,7 @@ permalink: /research-activity/
     </section>
 
     <section class="section-block">
-      <h2>Talks</h2>
+      <h2>Selected talks</h2>
       <table class="talks-table">
         <tbody>
           <tr>
