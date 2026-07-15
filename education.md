@@ -37,7 +37,7 @@ permalink: /education/
           <p class="edu-meta">Vita-Salute San Raffaele University, Milan, Italy</p>
           <p class="edu-meta">2018-2023</p>
           <ul>
-          <p>Thesis project: instituted the Primary Care-Hospital Embedding Prospective, Multicentric, Observational Clinical Trial to introduce integrated care at IRCCS San Raffaele Hospital (PRIME, NCT05723185).</p>
+          <li>Thesis project: instituted the Primary Care-Hospital Embedding Prospective, Multicentric, Observational Clinical Trial to introduce integrated care at IRCCS San Raffaele Hospital (PRIME, NCT05723185).</li>
           </ul>
         </article>
         <article class="edu-card">

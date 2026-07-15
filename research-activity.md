@@ -23,8 +23,10 @@ permalink: /research-activity/
     </section>
 
     <section class="section-block">
-      <h2>Selected publications</h2>
+      <div style="display:flex; align-items:baseline; gap:0.5rem; flex-wrap:wrap;">
+        <h2>Selected publications</h2>
         <p><a href="https://orcid.org/0000-0002-0907-7640">(see more)</a></p>
+      </div>
       <p><strong>2026</strong></p>
       <ul>
         <li><strong>M. Montagna</strong>, A. S. Rabadzhiev, et al. <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1685842/full">From raw data to actionable insights: preprocessing real-world data for machine learning in diabetes care</a>. Frontiers in Digital Health, 2026.</li>
